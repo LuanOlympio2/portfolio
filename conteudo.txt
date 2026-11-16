@@ -1,0 +1,71 @@
+[HERO]
+eyebrow = Operações · Infraestrutura de TI · Logística & Automação
+title = Soluções práticas em operações, tecnologia e resolução de problemas.
+subtitle = Sou Luan Olympio. Uno experiência prática em campo, com infraestrutura de TI, segurança eletrônica (CFTV), logística e atendimento, ao uso de automação e sistemas digitais para tornar rotinas mais simples e eficientes.
+cta_primary = Ver iniciativas
+cta_secondary = github.com/LuanOlympio2
+
+[SOBRE]
+tag = Sobre mim
+title = Versatilidade prática: do suporte em campo à organização de processos.
+p1 = Minha trajetória foi construída na prática, lidando diretamente com demandas reais: manutenção de computadores, instalação de sistemas de segurança eletrônica (CFTV), controle de estoque, fechamento financeiro e apoio operacional em rotinas de campo.
+p2 = Tenho formação técnica em Logística, certificação em Excel para análise de dados e curso o Bacharelado em Educação Física na Uniube, uma combinação que fortalece disciplina, organização, comunicação e visão sistêmica.
+p3 = Uso a tecnologia, a automação e o desenvolvimento de ferramentas digitais como aliados para eliminar retrabalho, monitorar serviços e resolver problemas do dia a dia com objetividade.
+skills = CNH Categoria B | Infraestrutura de TI & CFTV | Logística & Estoque | Suporte Técnico | Análise de Dados (Excel) | Automação de Processos | Atendimento & Operações
+
+[EXPERIENCIA]
+area = TI & Segurança Eletrônica
+empresa = Mtec Informática
+cargo = Técnico de TI e CFTV
+itens = Instalação, configuração e manutenção de sistemas de monitoramento eletrônico e CFTV.; Suporte técnico em hardware, diagnósticos de falhas, montagem, limpeza interna e manutenção preventiva de computadores e notebooks.; Instalação de cercas elétricas, motores de portão, cerca concertina e equipamentos de segurança.
+---
+area = Comércio & Operações
+empresa = Mercearia do Moisés
+cargo = Operador de Caixa e Repositor
+itens = Atendimento direto ao cliente, operação de frente de caixa e fechamento financeiro diário.; Controle de estoque, organização de mercadorias, recebimento de cargas e reposição estratégica de gôndolas.
+---
+area = Construção & Campo
+empresa = Tchê Piscinas
+cargo = Auxiliar de Construção e Acabamento
+itens = Atuação na instalação e construção de piscinas com aplicação de técnicas de laminação em fibra de vidro e resina.; Preparação de superfícies, acabamento estrutural e manutenção de materiais.
+---
+area = Esporte & Logística
+empresa = Comissão Técnica de Futebol
+cargo = Apoio Operacional e Logístico
+itens = Suporte direto às operações da comissão técnica, organização de materiais esportivos, logística de treinos e acompanhamento de rotinas de campo.
+
+[FORMACAO]
+curso = Bacharelado em Educação Física
+instituicao = Uniube
+status = Em andamento
+---
+curso = Curso Técnico em Logística
+instituicao = Escola Multi
+status = Finalizado
+---
+curso = Ensino Fundamental e Médio Completos
+instituicao = Formação Regular
+status = Concluído
+
+[CERTIFICADOS]
+tag = Logística
+titulo = Técnico em Logística
+detalhe = Escola Multi · Certificação de Conclusão de Curso
+---
+tag = Qualificação
+titulo = Qualificação Profissional em Logística
+detalhe = Escola Multi · Certificação Intermediária de Meio de Curso
+---
+tag = Dados
+titulo = Microsoft Excel
+detalhe = Certificação de Capacitação em Planilhas e Análise de Dados
+
+[CONTATO]
+tag = Contato
+title = Aberto a novas oportunidades e projetos.
+subtitle = Disponível para atuação em operações, logística, infraestrutura de TI, suporte técnico e iniciativas de automação.
+email = luanolympio1@outlook.com
+telefone = (38) 99745-8261
+github_url = https://github.com/LuanOlympio2
+github_label = github.com/LuanOlympio2
+local = Jacilândia, MG · Brasil
